@@ -1,0 +1,188 @@
+{
+  "source": "text",
+  "source_file": "<typed description>",
+  "building_type": "",
+  "floors": 3,
+  "plinth_area_sqm": 83.6,
+  "total_height_m": 9.6,
+  "earthwork": [
+    {
+      "name": "Excavation",
+      "count": 36,
+      "length_m": 1.8,
+      "width_m": 1.8,
+      "depth_m": 1.5,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "Excavation depth"
+    }
+  ],
+  "footings": [
+    {
+      "name": "Isolated RCC Footings",
+      "count": 36,
+      "length_m": 1.8,
+      "width_m": 1.8,
+      "depth_m": 0.45,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "M20"
+    }
+  ],
+  "foundation_walls": [],
+  "pcc": [
+    {
+      "name": "PCC 1:4:8",
+      "count": 36,
+      "length_m": 1.8,
+      "width_m": 1.8,
+      "depth_m": 0.1,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "Under footings"
+    }
+  ],
+  "columns": [
+    {
+      "name": "RCC Columns",
+      "count": 36,
+      "length_m": 3.2,
+      "width_m": 0.23,
+      "depth_m": 0.45,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "M20 concrete"
+    }
+  ],
+  "beams": [
+    {
+      "name": "RCC Beams",
+      "count": 1,
+      "length_m": 0.0,
+      "width_m": 0.23,
+      "depth_m": 0.4,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "M20 concrete"
+    }
+  ],
+  "slabs": [
+    {
+      "name": "RCC Slab",
+      "count": 3,
+      "length_m": 0.0,
+      "width_m": 0.0,
+      "depth_m": 0.125,
+      "area_sqm": 83.6,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "M20 concrete"
+    }
+  ],
+  "walls": [
+    {
+      "name": "External Brick Masonry Wall",
+      "count": 1,
+      "length_m": 0.0,
+      "width_m": 0.23,
+      "depth_m": 9.6,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "CM 1:6"
+    },
+    {
+      "name": "Internal Brick Masonry Wall",
+      "count": 1,
+      "length_m": 0.0,
+      "width_m": 0.115,
+      "depth_m": 9.6,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "CM 1:4"
+    }
+  ],
+  "staircases": [
+    {
+      "name": "Dog-legged Staircase",
+      "count": 1,
+      "length_m": 0.0,
+      "width_m": 0.0,
+      "depth_m": 0.0,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "1 staircase"
+    }
+  ],
+  "plastering": [
+    {
+      "name": "Internal Plaster",
+      "count": 1,
+      "length_m": 0.0,
+      "width_m": 0.0,
+      "depth_m": 0.0,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "12mm CM 1:4"
+    },
+    {
+      "name": "External Plaster",
+      "count": 1,
+      "length_m": 0.0,
+      "width_m": 0.0,
+      "depth_m": 0.0,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": "15mm CM 1:5"
+    }
+  ],
+  "flooring": [
+    {
+      "name": "Vitrified Tile Flooring",
+      "count": 3,
+      "length_m": 0.0,
+      "width_m": 0.0,
+      "depth_m": 0.0,
+      "area_sqm": 83.6,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "doors": [
+    {
+      "name": "Doors",
+      "count": 24,
+      "length_m": 0.0,
+      "width_m": 0.9,
+      "depth_m": 2.1,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "windows": [
+    {
+      "name": "Windows",
+      "count": 36,
+      "length_m": 0.0,
+      "width_m": 1.2,
+      "depth_m": 1.2,
+      "area_sqm": 0.0,
+      "volume_cum": 0.0,
+      "unit": "",
+      "notes": ""
+    }
+  ],
+  "raw_notes": ""
+}

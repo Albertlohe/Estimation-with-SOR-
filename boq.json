@@ -1,0 +1,34 @@
+[
+  {
+    "sl_no": 1,
+    "category": "A. Earthwork",
+    "description": "Earth work excavation in foundation trenches, all kinds of soil, depth upto 1.5m, disposal within 50m lead",
+    "quantity": 0.54,
+    "unit": "Cum",
+    "notes": "(0.60 x 0.60 x 1.5m)"
+  },
+  {
+    "sl_no": 2,
+    "category": "A. Earthwork",
+    "description": "Filling in foundation with excavated earth, compacted in layers",
+    "quantity": 0.54,
+    "unit": "Cum",
+    "notes": "Excavation vol minus footing concrete vol"
+  },
+  {
+    "sl_no": 3,
+    "category": "B. Foundation",
+    "description": "Providing and laying PCC 1:4:8 (M7.5) in foundation, 100mm thick, including formwork",
+    "quantity": 0.001,
+    "unit": "Cum",
+    "notes": "1 footings x (0.10 x 0.10 x 0.1m)"
+  },
+  {
+    "sl_no": 4,
+    "category": "F. Doors & Windows",
+    "description": "Providing and fixing aluminium glazed windows 1200x1200mm, with glass",
+    "quantity": 12,
+    "unit": "Nos",
+    "notes": "12 per floor x 1 floors"
+  }
+]
